@@ -1,26 +1,10 @@
 # Rigs of Rods
 
-[![Join Discord](https://img.shields.io/discord/136544456244461568.svg?style=flat-square)](https://discord.gg/rigsofrods) ![downloads](https://img.shields.io/github/downloads/RigsOfRods/rigs-of-rods/latest/total.svg?style=flat-square)
-![release](https://img.shields.io/github/release/RigsOfRods/rigs-of-rods.svg?style=flat-square)
-![contributors](https://img.shields.io/github/contributors/RigsOfRods/rigs-of-rods.svg?style=flat-square)
-![issues-pr](https://img.shields.io/github/issues-pr/RigsOfRods/rigs-of-rods.svg?style=flat-square)
-![commits since latest release](https://img.shields.io/github/commits-since/RigsOfRods/rigs-of-rods/latest.svg?style=flat-square)
-
-
-
-|  Build status 	|                                                                                                                                                                             	|
-|---------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Linux:        	| [![travis build Status](https://img.shields.io/travis/RigsOfRods/rigs-of-rods.svg?style=flat-square)](https://travis-ci.org/RigsOfRods/rigs-of-rods)                                    	|
-| Windows:      	| [![appveyor build Status](https://img.shields.io/appveyor/ci/AnotherFoxGuy/rigs-of-rods/master.svg?style=flat-square)](https://ci.appveyor.com/project/AnotherFoxGuy/rigs-of-rods) 	|
-
-
 Rigs of Rods is a free/libre soft-body physics simulator mainly targeted at simulating vehicle physics. The soft-body physics system is based on mass-spring-damper theory.  
 For a simple overview of the features Rigs of Rods provides please refer to [doc/Things you can do in Rigs of Rods.pdf](doc/Things%20you%20can%20do%20in%20Rigs%20of%20Rods.pdf)  
 
+**ATTENTION:** For the official repository, please see https://github.com/RigsOfRods/rigs-of-rods/.
 
-#### Trailer:
-
-[![Rigs of Rods Trailer](http://img.youtube.com/vi/bRbQ4OaljWs/0.jpg)](http://www.youtube.com/watch?v=bRbQ4OaljWs)
 
 ## Supported platforms:
 * Windows
@@ -84,6 +68,7 @@ Rigs is Rods can also be played with Gamepads, Joysticks, Wheels and other contr
 | Page Up/Down                   | aircrafts: increase/decrease throttle                |
 | F1/F2                          | helicopters: lift up/down                            |
 | Print Screen                   | create screenshot in $user/screenshots folder        |
+| Q                              | change gearbox mode (manual/auto)                    |
 
 
 ## Content/Mods
@@ -142,6 +127,6 @@ You should have received a copy of the GNU General Public License
 along with Rigs of Rods. If not, see <http://www.gnu.org/licenses/>.
 ```
 
-* For the full license text see [COPYING](COPYING)
+* For the full license text see [LICENSE](LICENSE)
 * For involved authors see [AUTHORS.md](AUTHORS.md)
 * For licenses of used libraries see [DEPENDENCIES.md](DEPENDENCIES.md)
